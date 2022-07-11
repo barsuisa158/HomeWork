@@ -26,11 +26,11 @@ ip public :172.12.1.8
   /26 class c
   /25 class c
   /24 class c
-  /23 class b
-  /22 class b
-  /21 class b
-  /20 class b
-  /19 class b
-  /18 class b
-  /17 class b
+  /23 class c
+  /22 class c
+  /21 class c
+  /20 class c
+  /19 class c
+  /18 class c
+  /17 class c
   /16 class b
